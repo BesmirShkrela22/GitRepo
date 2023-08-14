@@ -6,6 +6,7 @@ public class Main {
         System.out.println("today we have codding");
         System.out.println("java course");
         System.out.println("python course");
+        System.out.println("i am ajna ");
 
     }
 }
